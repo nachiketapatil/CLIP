@@ -6,7 +6,7 @@ This repository contains the implementation of the CLIP (Contrastive Language-Im
 
 2) Caption Generation from Image: Given an input image, the model generates a description that best matches the content of the image.
 
-This project is done for **FML(CS626)** at **IIT Bombay**
+This project is done for **FML(CS725)** at **IIT Bombay**
 
 **Team Members**:
 * Abhishek
