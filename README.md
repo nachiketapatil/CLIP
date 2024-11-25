@@ -24,4 +24,4 @@ This project is done for **FML(CS725)** at **IIT Bombay**
 [CLIP Paper](https://arxiv.org/pdf/2103.00020)
 
 **Link to Dataset**:
-[Flickr30k Dataset](https://shannon.cs.illinois.edu/DenotationGraph)
+[Flickr30k Dataset](https://shannon.cs.illinois.edu/DenotationGraph/)
