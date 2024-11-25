@@ -48,6 +48,8 @@ Step 1 : Download CLIP.ipynb file
 Step 2 : Change paths of dataset (Image path & caption.csv file)
 
 Step 3 : Download & add train_captions.csv, valid_captions.csv and best_model.pth to your directory
+[Link to download model](https://drive.google.com/drive/folders/1ctEGkLlLWMrasLPXX6-hFVx9EeTFXuCQ?usp=sharing)
+
 
 Step 4 : Run CLIP.ipynb
 
