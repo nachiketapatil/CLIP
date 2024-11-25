@@ -35,6 +35,7 @@ This project is done for **FML(CS725)** at **IIT Bombay**
 ![Response](https://github.com/user-attachments/assets/911a4b46-426e-4031-9212-136475b131bb)
 
 **Input given to get images : a dog playing on the grass**
+
 **Response from Model:**
 ![Response](https://github.com/user-attachments/assets/128abda8-a783-4578-b4fd-cbfda97da74c)
 
