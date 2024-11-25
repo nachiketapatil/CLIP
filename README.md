@@ -5,3 +5,20 @@ This repository contains the implementation of the CLIP (Contrastive Language-Im
 1) Image Generation from Caption: Given an input text caption, the model generates a relevant image based on the learned relationship between the textual and visual modalities.
 
 2) Caption Generation from Image: Given an input image, the model generates a description that best matches the content of the image.
+
+This project is done for **FML(CS626)** at **IIT Bombay**
+
+**Team Members**:
+* Abhishek
+* Nasir
+* Utkarsh
+* Nachiketa
+
+**Link to PPT**:
+[PPT](https://docs.google.com/presentation/d/1pLBjGjnPWlIFFBw2ThleTIKHX2gpTOmtNSQgSYOytOg/edit?usp=sharing)
+
+**Link to CLIP repository and code**:
+[CLIP Github](https://github.com/openai/CLIP)
+
+**Link to paper**:
+[CLIP Paper](https://arxiv.org/pdf/2103.00020)
