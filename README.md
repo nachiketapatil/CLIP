@@ -62,3 +62,6 @@ Step 2 : Change paths of dataset (Image path & caption.csv file).
 When training starts best model at each epoch will be saved
 
 Step 3 : Add model path in CLIP.ipynb file and run.
+
+**NOTE : You need a good GPU to train the model. We used RTX 3060 (12GB) to train & run**
+
