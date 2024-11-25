@@ -40,3 +40,23 @@ This project is done for **FML(CS725)** at **IIT Bombay**
 
 ![Response](https://github.com/user-attachments/assets/128abda8-a783-4578-b4fd-cbfda97da74c)
 
+
+How to run code :
+
+Step 1 : Download CLIP.ipynb file 
+
+Step 2 : Change paths of dataset (Image path & caption.csv file)
+
+Step 3 : Download & add train_captions.csv, valid_captions.csv and best_model.pth to your directory
+
+Step 4 : Run CLIP.ipynb
+
+
+If you want to train the model on your system :
+
+Step 1 : Download CLIPtrainingFinal.py
+
+Step 2 : Change paths of dataset (Image path & caption.csv file). 
+When training starts best model at each epoch will be saved
+
+Step 3 : Add model path in CLIP.ipynb file and run.
