@@ -27,7 +27,7 @@ This project is done for **FML(CS725)** at **IIT Bombay**
 [Flickr30k Dataset](https://shannon.cs.illinois.edu/DenotationGraph/)
 
 
-![Image used for getting captions](https://github.com/user-attachments/assets/5c5c0bfb-d50a-4020-af07-f6fdbff83e01)
+![Image used for getting captions](https://github.com/user-attachments/assets/5cdcd9e4-6b36-479b-b2eb-51801f193570)
 ![Response](https://github.com/user-attachments/assets/911a4b46-426e-4031-9212-136475b131bb)
 
 Input given to get images : a dog playing on the grass
