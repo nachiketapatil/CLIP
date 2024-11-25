@@ -1,0 +1,10 @@
+albumentations==1.4.21
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+pandas==2.2.3
+scikit_learn==1.5.2
+timm==0.5.4
+torch==2.5.1+cu121
+tqdm==4.67.0
+tqdm==4.66.5
+transformers==4.46.2
