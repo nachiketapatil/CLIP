@@ -41,6 +41,11 @@ This project is done for **FML(CS725)** at **IIT Bombay**
 ![Response](https://github.com/user-attachments/assets/128abda8-a783-4578-b4fd-cbfda97da74c)
 
 
+**Output given by CLIP Pretrained Model Code**
+![Output given by CLIP Pretrained Model Code](https://github.com/user-attachments/assets/9a9171cb-37ae-496b-b84c-3f779bf63406)
+
+
+
 How to run code :
 
 Step 1 : Download CLIP.ipynb file 
